@@ -7,7 +7,7 @@ import {
   FlexBreak, 
   RagaAroAvro,
   RagaDescription
-} from "./styles"
+} from "../components/styles"
 
 const IndexPage = () => {
   return (

@@ -44,6 +44,10 @@ export const RagaAroAvro = styled.div`
     font-size: 64px;
     margin-bottom: 5px;
   }
+  span {
+    display: flex;
+    align-items: center;
+  }
   margin-bottom: 20px;
 `
 
