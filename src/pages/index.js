@@ -21,9 +21,15 @@ const IndexPage = () => {
       <FlexBreak />
       <RagaDetails>
         <RagaAroAvro>
-          <h1>⬆️: S R1 G3 M1 D1 N3 Ṡ</h1>
+          <h1>
+            <span role="img" aria-label="up-arrow">⬆️</span>
+            <span>: S R1 G3 M1 D1 N3 Ṡ</span>
+          </h1>
           <FlexBreak />
-          <h1>⬇️: Ṡ N3 D1 P M1 G3 R1 S</h1>
+          <h1>
+            <span role="img" aria-label="down-arrow">⬇️</span>
+            <span>: Ṡ N3 D1 P M1 G3 R1 S</span>
+          </h1>
         </RagaAroAvro>
         <FlexBreak />
         <RagaDescription>
