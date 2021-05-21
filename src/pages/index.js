@@ -12,6 +12,7 @@ import {
 const IndexPage = () => {
   return (
     <React.Fragment>
+    <title>Raga Library</title>
     <GlobalStyle />
     <MainComponent>
       <RagaTitle>
