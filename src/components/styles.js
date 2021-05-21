@@ -42,6 +42,7 @@ export const RagaAroAvro = styled.div`
   h1 {
     display: flex;
     font-size: 64px;
+    color: aquamarine;
     margin-bottom: 5px;
   }
   span {
