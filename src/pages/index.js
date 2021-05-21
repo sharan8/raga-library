@@ -23,7 +23,7 @@ const IndexPage = () => {
         <RagaAroAvro>
           <h1>
             <span role="img" aria-label="up-arrow">⬆️</span>
-            <span>: S R1 G3 M1 D1 N3 Ṡ</span>
+            <span>: S R1 G3 M1 P D1 N3 Ṡ</span>
           </h1>
           <FlexBreak />
           <h1>
