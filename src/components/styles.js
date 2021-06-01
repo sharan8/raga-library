@@ -27,7 +27,7 @@ export const NavigationWrapper = styled.div`
   width: 100%;
 `
 
-export const RagaViewComponent = styled.div`
+export const RagaViewComponentWrapper = styled.div`
   color: #fff;
   padding: 50px;
   display: flex;
