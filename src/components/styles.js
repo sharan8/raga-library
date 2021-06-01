@@ -7,7 +7,7 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     background: #282c34;
-    font-family: Open-Sans, Helvetica, Sans-Serif;
+    font-family: Vollkorn;
   }
 `
 
